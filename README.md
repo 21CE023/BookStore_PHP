@@ -3,7 +3,7 @@ This BookStore Website is using PHP and Database(MySQL). In this website you can
 And also all the book data will store at the database for easy to add, edit and delete.
 
 ## Home Page & Edit Profile Page:
-![HomePage](/homepage.PNG)
+![HomePage](/HomePage&Cart.PNG)
 ![EditProfile](/editprofile.PNG)
 
 ## DataBase:
